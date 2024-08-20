@@ -1,3 +1,41 @@
 * {
     box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace
+}
+
+html {
+    background-color: whitesmoke;
+}
+
+footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+}
+
+#footer-text {
+    text-align: center;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    margin-bottom: .5em;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+a:hover {
+
+    font-size: 20px;
+}
+
+.center {
+    text-align: center;
+    margin-top: 19%;
 }
